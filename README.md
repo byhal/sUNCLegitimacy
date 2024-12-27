@@ -4,7 +4,7 @@ Checks if an sUNC test is faked or not.
 # Outcomes
 Prints "Loading..." and "Grabbing executor name..." and nothing else happens: Not spoofed or method is bypassed
 
-CSecure blocks: 99% chance of spoof
+blocked: 99% chance of spoof
 
 Runs: DEFINITELY spoof
 
